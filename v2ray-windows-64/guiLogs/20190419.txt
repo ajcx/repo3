@@ -1,0 +1,166 @@
+--------------------------------info[05:16:38]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[05:16:40]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[05:16:40]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[06:21:30]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[06:21:31]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[06:21:31]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[07:11:20]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[07:11:21]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[07:11:21]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[07:28:10]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[07:28:10]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[07:28:10]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.HttpProxyHandler.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[07:30:12]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[07:30:12]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[07:30:12]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[07:31:43]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[07:31:43]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[07:31:43]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.HttpProxyHandler.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[07:31:43]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[07:31:52]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[07:31:52]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[07:31:52]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.HttpProxyHandler.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[07:31:53]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[07:32:10]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[07:32:10]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[07:32:10]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.HttpProxyHandler.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[07:32:10]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------ID 为 18584 的进程当前未运行。[07:32:53]--------------------------------
+System.ArgumentException: ID 为 18584 的进程当前未运行。
+   在 System.Diagnostics.Process.GetProcessById(Int32 processId, String machineName)
+   在 v2rayN.Handler.V2rayHandler.V2rayStop()
+
+ 
+--------------------------------info[07:32:53]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------info[07:32:53]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[07:32:53]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[09:45:44]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[09:45:44]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.HttpProxyHandler.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[12:26:55]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[12:26:56]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[12:26:56]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[20:57:27]--------------------------------
+System.Exception: Webserver Stop 127.0.0.1
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[20:57:27]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.HttpProxyHandler.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
